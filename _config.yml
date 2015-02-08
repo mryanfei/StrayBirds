@@ -1,5 +1,5 @@
 username: mryanfei
-baseurl: /
+baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 pygments: true
